@@ -1,0 +1,6 @@
+/wp-includes/js/jquery/jquery.js::fe633f13a47489e16d6d3b9065b20500::word-press
+/wp-includes/js/jquery/jquery.js?ver=1.10.::d3dd446e5ba92b8ffa78e596fda2c471::word-press
+/favicon.ico::f420dc2c7d90d7873a90d82cd7fde315::word-press
+/wp-includes/js/jquery/jquery-migrate.min.js::512b871a2830e44259bc3ce3343afcd0::word-press
+/wp-content/themes/daiphapinfo/images/ja.moomenu.js::f9ebcab64a388f8cac82dc25f654c287::word-press
+/wp-content/themes/daiphapinfo/images/PopupWindow.js::570fed3d8f8b447514ab3e987dc08f82::word-press

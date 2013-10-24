@@ -1,0 +1,4 @@
+/res/js/dev/wind.js::7ad9ac3d647e00e12c615a06762430fe::phpwind
+/themes/site/default/images/logo.png::c2a75344349c39c7f4acaed8a7156293::phpwind
+/js/pw_ajax.js::8531a5f857019d7bdc00533728dfc9f6::phpwind
+/js/app_global.js::8531a5f857019d7bdc00533728dfc9f6::phpwind

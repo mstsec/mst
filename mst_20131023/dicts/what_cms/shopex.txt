@@ -1,0 +1,2 @@
+/asset/javascripts/mootools.js::e3381f8f7d0788dd149e68c4d00249dc::shopex
+/asset/javascripts/scripts.js::c43e4b278ea17f2cde3bfa9212c28b24::shopex

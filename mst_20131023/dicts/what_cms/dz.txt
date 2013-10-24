@@ -1,0 +1,8 @@
+/favicon.ico::c028c4822428e83a358c60a93ef65381::dz x2.5
+/static/js/admincp.js::05e0eee21760347218cbf225fc1b601c::dz x2.5
+/static/js/md5.js::ef058f07a773acf03f6d2f7f6ecb68fd::dz x2.5 or x3.0
+/static/js/md5.js::26511efb3ce6f474b4dfddbebc4bef48::dz x2
+/forumdata/cache/common.js::62304be19d86e64eaf78f8cd610b38a8::dz 7.2
+/images/common/online_member.gif::e679735ca6f5ed898ba98e4433565003::dz 7.2
+/images/default/reply.gif::c00763eee9ef06799151a9ee0b18ab13::dz 1.0
+/images/default/collapsed_no.gif::34bc7136efaf8c351b22bacf46576edd::dz 1.0
