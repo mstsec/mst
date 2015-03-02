@@ -48,7 +48,7 @@ class mstplugin:
 			host='Error!'
 		return host
 
-	def what_cms(sself,host):
+	def what_cms(self,host):
 		
 		def get_md5(html):
 			m=hashlib.md5()
